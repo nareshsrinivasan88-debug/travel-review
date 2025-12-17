@@ -29,8 +29,7 @@ body {
     width: 180px;
 }
 .logo_left img{
-    width: 70px;
-    height: 40px;
+    width: 100%;
 }
 
 .logo_left:hover {
